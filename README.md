@@ -2,7 +2,7 @@
 
 ![image](test.png)
 
-Code to compute the maximal correlation coefficient, also known as Hirschfeld-Gebelein-Rény (HGR) coefficient [1].
+Code to compute the maximal correlation coefficient, also known as Hirschfeld-Gebelein-Rényi (HGR) coefficient [1].
 
 Code has been adapted from [2] using ChatGPT.
 
